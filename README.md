@@ -31,7 +31,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <p>
 </p>
 <p>
-Hello everyone! Today we will be installing osTicket on a virtual machine using azure. The first thing we will need to do is create a virtual machine usinf the Microsoft Azure Portal. We will be using a VM which is a digital version of a physical computer.  We are using a VM in order to protect our physical machine just in case something in our lab goes wrong. Create a resource group and title it "rglabos". Afterwards create a VM with 2-4 CPUs. In this example I will be using 4 CPUs.
+Hello everyone! Today we will be installing osTicket on a virtual machine using azure. The first thing we will need to do is create a virtual machine usinf the Microsoft Azure Portal. We will be using a VM which is a digital version of a physical computer.  We are using a VM in order to protect our physical machine in case something in our lab goes wrong. Create a resource group and title it "rglabos". Afterwards create a VM with 2-4 CPUs. In this example I will be using 4 CPUs.
   
  <img src="https://i.imgur.com/TmsO8xH.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
